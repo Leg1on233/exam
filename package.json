@@ -1,0 +1,13 @@
+{
+  "name": "bahanec_223",
+  "version": "1.0.0",
+  "description": "Design Patterns in TypeScript — Exam",
+  "scripts": {
+    "factory": "ts-node src/creational/factory-method.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.37",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
